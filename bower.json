@@ -4,7 +4,15 @@
   "homepage"    : "http://www.semantic-ui.com",
   "main": [
     "build/packaged/css/semantic.css",
-    "build/packaged/fonts/*",
+    "build/packaged/fonts/basic.icons.eot",
+    "build/packaged/fonts/basic.icons.svg",
+    "build/packaged/fonts/basic.icons.ttf",
+    "build/packaged/fonts/basic.icons.woff",
+    "build/packaged/fonts/icons.eot",
+    "build/packaged/fonts/icons.otf",
+    "build/packaged/fonts/icons.svg",
+    "build/packaged/fonts/icons.ttf",
+    "build/packaged/fonts/icons.woff",
     "build/packaged/images/*",
     "build/packaged/javascript/semantic.js"
 
